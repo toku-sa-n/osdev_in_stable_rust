@@ -12,3 +12,13 @@
 ### nightlyの機能一覧
 
 ここでは，OSを記述する際に使われるNightlyの機能を紹介し，Stable Rustでの代替策を述べます．見出しはFeature gateの名前です．
+
+#### [`efiapi`](https://github.com/rust-lang/rust/issues/65815)
+
+##### 概要
+
+この機能は，UEFIインタフェースを利用する場合に必要です．OS作成においては，ブートローダの作成の際に使用されます．
+
+##### Stable Rustでの代替策
+
+
