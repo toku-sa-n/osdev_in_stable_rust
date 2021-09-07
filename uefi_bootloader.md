@@ -1,4 +1,4 @@
-# Write a UEFI bootloader in stable Rust
+# Generate a UEFI binary in stable Rust
 
 This article is based on [my blog post](https://tokuchan3515.hatenablog.com/entry/2021/08/14/163511).
 
